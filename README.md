@@ -1,7 +1,5 @@
 # User Management System with React and MongoDB 🚀
 
-![MERN Stack](https://miro.medium.com/max/1400/1*oD8T7sM2XHAD4aR4zLm8hg.jpeg)
-
 This repository contains a User Management System implemented using React.js and Bootstrap. The system allows users to view, search, and paginate through a list of users fetched from a backend API.
 
 ## Features 🌟
@@ -79,6 +77,13 @@ Follow these steps to get the application up and running on your local machine.
 
     - Open your browser and go to [http://localhost:5173/](http://localhost:5173/).
 
+### Acknowledgements 🙏
+
+   - Node.js
+   - React.js
+   - Express.js
+   - MongoDB
+
 ## Project Structure 📁
 
 ```markdown
@@ -105,3 +110,11 @@ react-mongo/
 │   ├── index.css          # Global styles
 │   └── main.jsx           # Client entry point
 └── vite.config.js         # Vite configuration
+```
+---
+
+### Contributing 🤝
+     Contributions, issues, and feature requests are welcome! Feel free to check the issues page. 
+
+### License 📄
+    This project is licensed under the MIT License - see the LICENSE file for details.

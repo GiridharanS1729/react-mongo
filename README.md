@@ -25,3 +25,35 @@ A simple React-based User Management System with pagination and search functiona
    ```bash
    git clone https://github.com/your-username/user-management-system.git
    cd user-management-system
+
+
+# User Management System
+
+This project is a simple User Management System built using React. It features pagination and search functionalities to manage and display user data effectively. The application is responsive, utilizing Bootstrap for styling.
+
+## Key Features
+
+- **Pagination:** Navigate through multiple pages of user data.
+- **Search:** Dynamically filter users by any field.
+- **Responsive Design:** Ensures usability across different screen sizes.
+
+## Technologies Used
+
+- **Frontend:** React.js, Bootstrap
+- **Backend:** Node.js (for API endpoints)
+- **Database:** MongoDB (or your preferred database)
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- Node.js installed
+- npm installed
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your-username/user-management-system.git

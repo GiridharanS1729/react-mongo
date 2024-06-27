@@ -111,10 +111,11 @@ react-mongo/
 │   └── main.jsx           # Client entry point
 └── vite.config.js         # Vite configuration
 ```
+
 ---
 
 ### Contributing 🤝
-     Contributions, issues, and feature requests are welcome! Feel free to check the issues page. 
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page. 
 
 ### License 📄
-    This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
